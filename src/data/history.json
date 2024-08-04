@@ -1,0 +1,13 @@
+[
+    {
+      "role": "Software Development Engineer",
+      "organisation": "Jio Platforms Limited",
+      "startDate": "November, 2022 ",
+      "endDate": "Present",
+      "location" : "Mumbai , Maharashtra",
+      "experiences": ["Developed and maintained robust Java backend systems.", "Designed and implemented scalable APIs using frameworks like Spring and Spring boot.",
+                "Optimized existing codebases for improved performance, readability, and maintainability.","Actively participated in code reviews and adhered to best practices in design patterns and coding standards."
+                ,"Engaged in continuous learning to stay updated on the latest developments in Java and related technologies.","Successfully contributed to projects, meeting milestones and delivering efficient backend solutions."],
+      "imageSrc": "history/jio.png"
+    }
+  ]

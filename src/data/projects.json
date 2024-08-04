@@ -1,0 +1,30 @@
+[
+    {
+      "title": "Chat Buddies",
+      "imageSrc": "projects/chatbuddies.JPG",
+      "description": ["Real-time Messaging: Utilizes Socket.io for real-time communication, ensuring instant message delivery and live updates between users",
+                      "Robust Authentication: Implements JWT and Cookie Parser for secure authentication and authorization, protecting user data and ensuring privacy",
+                      "State Management: Uses Zustand for efficient and scalable state management, enhancing performance and ease of state handling in the application.",
+                      "Responsive Design: Tailwind CSS and DaisyUI are employed to create a responsive and visually appealing user interface, providing a seamless user experience across different devices.",
+                      "Scalable Backend: Built with Node.js, Express, and MongoDB, the backend is designed to handle high traffic and large volumes of data, ensuring scalability and reliability"
+                    ],
+      "skills": ["Node Js", "Express Js", "React Js","Mongo DB","Socket.io","Tailwind CSS"],
+      "demo": "https://chatbuddiesprod.onrender.com/login",
+      "source": "https://github.com/VishalSahu18/ChatBuddies"
+    },
+
+    {
+      "title": "Inhouse Trouble Ticketing tool",
+      "imageSrc": "projects/project.png",
+      "description": ["Built a responsive frontend using React.js and Material-UI for a seamless user experience and java,spring boot for backend.",
+                      "Implemented messaging with Apache Kafka to ensure reliable communication between services.",
+                      "Utilized MySQL for database management and H2 for local testing.",
+                      "Integrated Camunda for workflow and business process management.",
+                      "Ensured high performance and scalability of the application through efficient coding and system design."
+       ],
+      "skills": ["Spring Boot", "React Js", "Material UI", "Kafka","Camunda","MySql"],
+      "demo": "#",
+      "source": "#",
+      "note": "Note :- This is the inhouse software product of my current company so I cannot share the source code or any accessible link."
+    }
+  ]
