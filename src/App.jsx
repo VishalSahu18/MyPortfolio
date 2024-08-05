@@ -8,8 +8,6 @@ import { Projects } from "./components/Projects/Projects";
 import Skills from "./components/Skills/Skills";
 import Tools from "./components/Tools/Tools";
 
-
-
 function App() {
   return (
     <div className={styles.App}>
